@@ -1,0 +1,6 @@
+{
+  "kind": "spark",
+  "conf": {
+     "spark.kubernetes.driver.container.image": "brainlounge/livy-on-k8s-driver:livy-0.5.0-s2.4.0-h2.6"
+  }
+}
